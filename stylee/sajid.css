@@ -1,0 +1,16 @@
+h3 {
+   color: rgb(255, 2, 2);            /* Red text */
+   font-size: 100px;                    /* Large font size */
+   background-image: url('../image/FreeVector-Thumbs-Up-Vector.jpg'); /* Correct relative path */
+   background-color: rgb(252, 240, 83); /* Yellow background color */
+   background-blend-mode:normal;
+   background-size: contain;           /* Ensure the image scales to fit */
+   background-position:right bottom;       /* Align the image to the right */
+   background-repeat: no-repeat;       /* Prevent repeating the image */
+   display: block;                     /* Block display for the h3 */
+   height: 1000px;                      /* Set the height of the h3 */
+   flex-wrap: wrap;                    /* This will have no effect on h3 */
+}
+button{
+   
+}
